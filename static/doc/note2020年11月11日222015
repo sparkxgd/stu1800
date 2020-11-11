@@ -1,0 +1,7 @@
+2020年11月11日22:20:39
+一、建立多个app的步骤
+1、pycharm 的菜单选择Tools
+2、选择 run mange.py Task
+3、在terminal 窗口里输入
+    startapp app的名称 描述
+4、运行及可看到新添加的app
